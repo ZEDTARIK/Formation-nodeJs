@@ -1,11 +1,19 @@
 {
   "name": "formation-nodejs",
   "version": "1.0.0",
-  "description": "Formation NodeJ",
+  "description": "formation nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Zouhair ETTARAK\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D-",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZEDTARIK/Formation-nodeJs.git"
+  },
+  "author": "Zouhair ETTARAK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZEDTARIK/Formation-nodeJs/issues"
+  },
+  "homepage": "https://github.com/ZEDTARIK/Formation-nodeJs#readme"
 }
