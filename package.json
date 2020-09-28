@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ZEDTARIK/Formation-nodeJs/issues"
   },
-  "homepage": "https://github.com/ZEDTARIK/Formation-nodeJs#readme"
+  "homepage": "https://github.com/ZEDTARIK/Formation-nodeJs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
